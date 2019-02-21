@@ -20,9 +20,8 @@ body {
   .logo {
   width: 90px;
   margin: 0 auto;
-  padding-left: : 2.5em;
-  padding-bottom: : 1.5em;
-  padding-top: 2.5em;
+  padding: 2.5em;
+
 }
 
   .title {
