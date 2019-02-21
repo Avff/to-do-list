@@ -1,0 +1,43 @@
+body {
+
+
+
+
+    font-family: 'Anaheim', calibri, sans-serif;
+    letter-spacing: 3px;
+    font-size: 10pt;
+      color:  black;
+
+
+  }
+
+
+
+  h1 {
+    font-size: 20px;
+  }
+
+  .logo {
+  width: 90px;
+  margin: 0 auto;
+  padding-left: : 2.5em;
+  padding-bottom: : 1.5em;
+  padding-top: 2.5em;
+}
+
+  .title {
+    margin-left: 2em;
+    margin-bottom: 0.5em;
+    margin-top: 2em;
+  }
+
+  .text-align-item {
+    display: block;
+    text-align: left;
+
+
+  }
+
+  .unavailable {
+  text-decoration: line-through;
+}
